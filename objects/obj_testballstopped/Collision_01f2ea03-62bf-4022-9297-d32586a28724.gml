@@ -3,6 +3,7 @@ if speed>0.2{
 if hit=0
 {
 	hit=1;
+	alarm[0]=3;
 	with other{
 	hit=1;
 	alarm[0]=3;
