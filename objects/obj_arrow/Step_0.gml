@@ -1,5 +1,6 @@
 if keyboard_check_pressed(vk_space){mode+=1;}
-if mode>3{mode=1;a=instance_create_layer(x,y-15,layer,obj_testball);with(a){motion_set(obj_arrow.image_angle,(obj_arrow.powerlevel/22)+3)};image_angle=90;}
+if keyboard_check_pressed(vk_rcontrol){if image_index=0{image_index=1;}else{image_index=0;}}
+if mode>3{mode=1;a=instance_create_layer(x,y-15,layer,obj_testball);with(a){motion_set(obj_arrow.image_angle,(obj_arrow.powerlevel/22)+3);spin_dir=obj_arrow.image_index;};image_angle=90;}
 if mode=1{
 	if keyboard_check(vk_left)&&x>200{x-=4};
 	if keyboard_check(vk_right)&&x<440{x+=4};

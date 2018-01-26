@@ -143,6 +143,14 @@
             }
         },
         {
+            "Key": "6ceffe44-744f-4d8d-8d14-52854160752e",
+            "Value": {
+                "id": "e17ab1e3-afbc-44a4-8698-63499a9b78df",
+                "resourcePath": "objects\\obj_playerturncontrol\\obj_playerturncontrol.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "825ff652-47d4-4525-96c4-1e7beb2f15cf",
             "Value": {
                 "id": "8a32a1c9-934f-42f2-8f96-0dfdf073699a",
