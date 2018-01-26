@@ -1,0 +1,1 @@
+if speed<0.2{move_snap(1,1)}
