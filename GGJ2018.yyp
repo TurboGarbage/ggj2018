@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "4766b4cf-5363-4656-bcb9-64306112a0b9",
+            "Value": {
+                "id": "99a80917-20c2-435f-ad9e-2348d12b4bd4",
+                "resourcePath": "sprites\\spr_arena\\spr_arena.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4a1fab43-e2aa-4344-bd1a-9bae1479d75b",
             "Value": {
                 "id": "c718dfac-43a0-4057-baba-96e2c34486a8",
@@ -108,6 +116,14 @@
                 "id": "b2422cb9-c872-4242-aaed-8bad35166e49",
                 "resourcePath": "sprites\\spr_dirt\\spr_dirt.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "52b63337-d420-40da-a0e2-bdf739e2bcc7",
+            "Value": {
+                "id": "f30fca1c-935b-41da-bac3-fecee2dd6602",
+                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -137,7 +153,7 @@
         {
             "Key": "6ceffe44-744f-4d8d-8d14-52854160752e",
             "Value": {
-                "id": "9ca4eaf1-2a51-4d16-9d36-59def3183da0",
+                "id": "5b42d574-9068-4495-b153-8c5a1b16436e",
                 "resourcePath": "objects\\obj_playerturncontrol\\obj_playerturncontrol.yy",
                 "resourceType": "GMObject"
             }
@@ -183,6 +199,14 @@
             }
         },
         {
+            "Key": "a8ab49a7-d4cf-4709-9fc4-ebcb1bc4dbb7",
+            "Value": {
+                "id": "a4caa2c0-c938-4a29-8680-a9a5a02f0dbf",
+                "resourcePath": "sprites\\spr_arrow\\spr_arrow.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "0957da4f-3a32-41b2-bc02-e8c18bdb5bc6",
@@ -217,7 +241,7 @@
         {
             "Key": "b3401cc7-12b0-4e02-b80f-6e9ff6823e93",
             "Value": {
-                "id": "5df25fde-24e8-474d-b42b-ff7913e11f1e",
+                "id": "5f1c8329-c628-4490-96dd-2fec47df10a1",
                 "resourcePath": "objects\\obj_arrow\\obj_arrow.yy",
                 "resourceType": "GMObject"
             }
