@@ -5,7 +5,7 @@
     "name": "obj_arrow",
     "eventList": [
         {
-            "id": "e5d596a3-1ac5-43a2-9ba3-76792a741c9a",
+            "id": "1bc0e199-fe18-4afa-ac5f-1a2cfe1fd3b8",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
@@ -15,7 +15,7 @@
             "m_owner": "b3401cc7-12b0-4e02-b80f-6e9ff6823e93"
         },
         {
-            "id": "913bafa6-7823-4805-adc3-e32d7e5cfc7a",
+            "id": "dd5e8335-e6c0-4399-af4f-fda5156a34f8",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
@@ -25,7 +25,7 @@
             "m_owner": "b3401cc7-12b0-4e02-b80f-6e9ff6823e93"
         },
         {
-            "id": "1282a6a7-839e-4e74-a6d5-c71287609920",
+            "id": "29425481-7503-499d-bf3b-4eff86456a42",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
@@ -53,6 +53,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "a8ab49a7-d4cf-4709-9fc4-ebcb1bc4dbb7",
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }
