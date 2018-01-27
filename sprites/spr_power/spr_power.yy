@@ -2,7 +2,7 @@
     "id": "07f28cc2-c205-4fc8-8bfd-f36090cd823b",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "spr_interface",
+    "name": "spr_power",
     "For3D": false,
     "HTile": false,
     "VTile": false,

@@ -1,28 +1,18 @@
 {
-    "id": "6ceffe44-744f-4d8d-8d14-52854160752e",
+    "id": "56413ed9-c9c4-4e5f-a48a-026e3afd729f",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_playerturncontrol",
+    "name": "obj_Globalpersistant",
     "eventList": [
         {
-            "id": "9120b7ac-5c9c-4117-ae40-385293c78d5b",
+            "id": "0a696725-7b84-42f4-b648-c7f96b69d551",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "6ceffe44-744f-4d8d-8d14-52854160752e"
-        },
-        {
-            "id": "9d09a742-acb1-43df-bfec-78c1fc436108",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 8,
-            "m_owner": "6ceffe44-744f-4d8d-8d14-52854160752e"
+            "m_owner": "56413ed9-c9c4-4e5f-a48a-026e3afd729f"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
